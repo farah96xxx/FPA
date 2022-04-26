@@ -1,0 +1,6 @@
+Nama file data : fold10.txt
+Generation number : 1		 Highest fitness..75.0	 Highest Classification : 75.0
+Generation number : 2		 Highest fitness..74.9985	 Highest Classification : 75.0
+Generation number : 3		 Highest fitness..74.9985	 Highest Classification : 75.0
+Generation number : 4		 Highest fitness..74.9985	 Highest Classification : 75.0
+Generation number : 5		 Highest fitness..74.9985	 Highest Classification : 75.0

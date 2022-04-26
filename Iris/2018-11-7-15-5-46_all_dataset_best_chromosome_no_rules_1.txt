@@ -1,0 +1,6 @@
+Nama file data : fold7.txt
+Generation number : 1		 Highest fitness..76.66666666666667	 Highest Classification : 76.66666666666667
+Generation number : 2		 Highest fitness..76.66516666666668	 Highest Classification : 76.66666666666667
+Generation number : 3		 Highest fitness..76.66516666666668	 Highest Classification : 76.66666666666667
+Generation number : 4		 Highest fitness..76.66516666666668	 Highest Classification : 76.66666666666667
+Generation number : 5		 Highest fitness..76.66516666666668	 Highest Classification : 76.66666666666667
